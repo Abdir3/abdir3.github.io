@@ -20,9 +20,9 @@ body
 .card
 {
 	position: relative;
-	width: 70vh;
+	width: 75vh;
 	border-top: 1px solid rgba(255,255,255,0.5);
-	height: 80vh;
+	height: 95vh;
 	background: rgba(255,255,255,0.1);
 	backdrop-filter: blur(10px);
 	border-radius: 20px;
